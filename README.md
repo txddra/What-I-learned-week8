@@ -1,5 +1,5 @@
 # What-I-learned-week8
-
+### overview
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.3-e5m4_fRyKnBiA9D1AYKQAAAA%26pid%3DApi&f=1)
 
 has been interesting to say the least;
@@ -10,13 +10,16 @@ has been interesting to say the least;
 
 
 ---
- 
+ ### personal
+
  I'm still a bit shaky on the index side of things,
  as well as if statements.
  but I'm looking forward to getting more educated.
 
 
  ---
+### Summary
+
 # Array Methods:
 - **map**
 - **filter**
